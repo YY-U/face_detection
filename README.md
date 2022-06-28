@@ -23,7 +23,7 @@ $ear =\displaystyle\frac{( | p2 - p6 | + | p3 - p5 | )}{2\times| p1 - p4 |}$
 # 実行環境について：
 - OS：Windows10
 - 言語：python
-- ライブラリ：opencv,dlib etc.
+- ライブラリ：opencv, dlib  etc.
 - ノートPC（ROG Zephyrus G14 GA401IV）
 - 外付けカメラ（MAXHUB UC W10）
 
