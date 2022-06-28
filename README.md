@@ -17,7 +17,7 @@
 - 上記平均値が事前に設定した閾値より下回っていた場合、眠気判定し注意喚起を行う。
 - 以上をフレームに書き出し視覚的に表示する。
 # ear指標
-$$ ear = ( || p2 - p6 || + || p3 – p5 || ) / 2|| p1 – p4 || $$
+$ear =\displaystyle\frac{( | p2 - p6 | + | p3 - p5 | )}{2\times| p1 - p4 |}$
 
 ![image](https://user-images.githubusercontent.com/67746990/176149134-a237db68-bb78-4c37-9a23-1423324234c9.png)
 
